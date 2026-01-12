@@ -17,7 +17,7 @@ if let user_input = readLine()
 
 {
  
-    // Print the user's output that was entered into the prompt
+    // Print user's input that was entered via the prompt
     
     print("\(user_input)")
     
